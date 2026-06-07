@@ -9,5 +9,9 @@ public class FIPSService {
 	public void Dev1() {
 		
 	}
+	
+	public void Dev2() {
+		
+	}
 
 }
