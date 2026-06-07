@@ -3,6 +3,7 @@ package com.exl.repository;
 public class ControllerRepo {
 	
 	public void m1() {
+		int x = 6+7;
 		System.out.println("Sai Dhanush");
 	}
 	
